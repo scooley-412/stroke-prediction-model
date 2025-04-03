@@ -9,7 +9,6 @@ The dataset is publicly available on Kaggle and includes features such as age, B
 - Data preprocessing and handling of missing values
 - Comparison of multiple classification models
 - Evaluation using accuracy, precision, recall, F1 score, and ROC-AUC
-- Feature importance analysis
 
 ## Dataset
 
