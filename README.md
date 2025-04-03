@@ -11,6 +11,24 @@ The dataset is publicly available on Kaggle and includes features such as age, B
 - Evaluation using accuracy, precision, recall, F1 score, and ROC-AUC
 - Feature importance analysis
 
-## Getting Started
+## Dataset
 
-Clone the repository and open the Jupyter notebook:
+The dataset used in this project is publicly available and can be downloaded directly from Kaggle:
+
+[Stroke Prediction Dataset on Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data)
+
+It includes synthetic patient-level data such as:
+
+- Age  
+- Gender  
+- Hypertension  
+- Heart disease  
+- Marital status  
+- Work type  
+- Residence type  
+- Average glucose level  
+- BMI  
+- Smoking status  
+- Stroke occurrence (target)
+
+This dataset is suitable for educational and demonstration purposes and does not contain real patient information.
